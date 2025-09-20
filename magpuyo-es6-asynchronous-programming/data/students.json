@@ -1,0 +1,21 @@
+{
+  "students": [
+    { "id": 1, "name": "John", "age": 19, "course": "Artificial Intelligence" },
+    { "id": 2, "name": "Angelo", "age": 23, "course": "Web Development" },
+    { "id": 3, "name": "Michael", "age": 21, "course": "Mobile Computing" },
+    { "id": 4, "name": "Ronnel", "age": 22, "course": "Cloud Engineering" },
+    { "id": 5, "name": "Butch", "age": 20, "course": "Data Analytics" }
+  ],
+  "courses": [
+    { "title": "Artificial Intelligence", "description": "Study of intelligent systems, neural networks, and machine learning." },
+    { "title": "Web Development", "description": "Designing and coding interactive websites and web applications." },
+    { "title": "Mobile Computing", "description": "Development of applications and systems for mobile devices." },
+    { "title": "Cloud Engineering", "description": "Managing and deploying scalable systems on cloud platforms." },
+    { "title": "Data Analytics", "description": "Interpreting data to support business insights and decision making." }
+  ],
+  "instructors": [
+    { "id": 1, "name": "Ronnel Magpuyo", "subject": "Cloud Platforms & Engineering" },
+    { "id": 2, "name": "Angelo Gente", "subject": "Advanced Web Programming" },
+    { "id": 3, "name": "John Daniel", "subject": "Artificial Intelligence and Machine Learning" }
+  ]
+}
